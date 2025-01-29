@@ -1,0 +1,54 @@
+name: music
+description: "A new Flutter project."
+
+# The following line prevents the package from being accidentally published to pub.dev.
+publish_to: 'none'
+
+# Version and build number.
+version: 1.0.0+1
+
+# Environment configuration.
+environment:
+  sdk: ^3.6.1
+
+# Dependencies required for the project.
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.0.17
+  flutter_bloc:
+  hydrated_bloc: ^10.0.0
+  path_provider: 
+
+
+# Dev dependencies for testing and linting.
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# Flutter-specific settings.
+flutter:
+  uses-material-design: true
+
+  # Adding assets to the application.
+  assets:
+    - assets/fonts/
+    - assets/images/
+    - assets/vectors/
+
+  # Custom fonts configuration.
+  fonts:
+    - family: Satoshi
+      fonts:
+        - asset: assets/fonts/Satoshi-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Satoshi-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/Satoshi-Light.ttf
+          weight: 500
+        - asset: assets/fonts/Satoshi-Medium.ttf
+          weight: 400
+        - asset: assets/fonts/Satoshi-Regular.ttf
+          weight: 300
