@@ -8,5 +8,6 @@ static const String sun='${basePath}sun$format';
 static const String moon='${basePath}moon$format';
 static const String topPattern='${basePath}Union$format';
 static const String bottomPattern='${basePath}Union1$format';
+static const String homeTopCard='${basePath}home_top_card$format';
 
 }

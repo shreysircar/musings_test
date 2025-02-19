@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521129122970",
+    "project_id": "musings-2904",
+    "storage_bucket": "musings-2904.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521129122970:android:1499ceabf0b94e363a9323",
+        "android_client_info": {
+          "package_name": "com.example.musings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfiQREdSzwmUOE1fX-XFJryS9VfmuMaFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
