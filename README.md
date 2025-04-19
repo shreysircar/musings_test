@@ -1,16 +1,20 @@
 # musings
 
-A new Flutter project.
+🎧 Musings – A Minimal Music Streaming App
+Musings is a sleek and intuitive music streaming app built with Flutter, offering a simple yet enjoyable listening experience. With smooth Firebase authentication and a clean UI, users can explore songs, manage their favorites, and enjoy playback with ease.
 
-## Getting Started
+✨ Current Features
+🔐 User Authentication – Secure sign-in and sign-up using Firebase.
 
-This project is a starting point for a Flutter application.
+🏠 Home Screen – Browse all available songs in a scrollable list.
 
-A few resources to get you started if this is your first Flutter project:
+❤️ Favorites – Like songs and view them in a personalized favorites section.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+▶️ Music Player – Play/pause music with a responsive player UI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👤 Profile Page – Access your profile and manage liked songs.
+
+📺 Videos Tab – Watch trending music videos fetched directly using YouTube's API.
+
+📰 News & Artists Tabs – Explore music updates and artist content (coming soon).
+
